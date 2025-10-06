@@ -1,0 +1,10 @@
+transformers>=4.44
+accelerate>=0.33
+torch
+langchain>=0.2.7
+pydantic>=2.7
+dateparser>=1.2.0
+python-dateutil>=2.9
+faker>=25.2
+rich>=13.7
+tenacity>=8.3

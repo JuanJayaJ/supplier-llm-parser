@@ -1,0 +1,13 @@
+{
+  "supplier_name": "Rich Stay",
+  "location": "Cairns, AU",
+  "room_type": "Deluxe Suite",
+  "price": 346.0,
+  "currency": "AUD",
+  "valid_from": "2026-04-04",
+  "valid_to": "2026-04-11",
+  "extras": [
+    "min stay",
+    "wifi"
+  ]
+}

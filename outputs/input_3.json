@@ -1,0 +1,15 @@
+{
+  "supplier_name": "Space Hotel",
+  "location": "Wellington, NZ",
+  "room_type": "Standard Twin",
+  "price": 517.0,
+  "currency": "NZD",
+  "valid_from": "2026-03-08",
+  "valid_to": "2026-03-23",
+  "extras": [
+    "free cancellation",
+    "min stay",
+    "pool",
+    "wifi"
+  ]
+}
