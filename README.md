@@ -4,17 +4,17 @@ Turn messy supplier descriptions (text) into validated JSON using **free Hugging
 **Pydantic** schemas, and robustness layers (pre/post-processing, retries, JSON repair).
 
 ## Features (Improvement-First)
-- ✅ **Schema-first** with Pydantic
-- ✅ **Pre-processing**: normalize dates/prices/currency hints
-- ✅ **Post-processing**: currency mapping, extras splitting, JSON repair
-- ✅ **Retry & validation loop**: re-ask model if output invalid
-- ✅ **Synthetic data generator** for unstructured texts
-- ✅ **Evaluator** scaffold for simple metrics
-- ✅ **Totally free** (no OpenAI) – runs on CPU or Colab GPU
+-  **Schema-first** with Pydantic
+-  **Pre-processing**: normalize dates/prices/currency hints
+-  **Post-processing**: currency mapping, extras splitting, JSON repair
+-  **Retr+y & validation loop**: re-ask model if output invalid
+-  **Synthetic data generator** for unstructured texts
+-  **Evaluator** scaffold for simple metrics
+-  **Totally free** (no OpenAI) – runs on CPU or Colab GPU
 
 ## Quickstart
 ```bash
-# 1) Create venv (recommended)
+# 1) Create venv 
 python -m venv .venv
 # Windows: .venv\Scripts\activate
 # macOS/Linux: source .venv/bin/activate
